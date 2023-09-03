@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Strawberry
+  - traps
+  - checkpoints
+  - doors
+  - boats
+  - fishes
+  - bullseye
+  - arrow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - Ground
+  - Arrow
+  - Player_ingore
+  - pickable_onjects
+  - arrowThrough
+  - Bow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg
+    uniqueID: 2037735619
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: az big pp
+    uniqueID: 341009063
+    locked: 0
